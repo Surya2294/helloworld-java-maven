@@ -42,12 +42,12 @@
     <repository>
         <id>deployment</id>
         <name>surya-release</name>
-        <url>http://13.127.224.144:8081/repository/surya-release/</url>
+        <url>http://13.127.224.144:8081/repository/surya1-release/</url>
     </repository>
     <snapshotRepository>
         <id>deployment</id>
         <name>surya-snapshot</name>
-        <url>http://13.127.224.144:8081/repository/surya-snapshot/</url>
+        <url>http://13.127.224.144:8081/repository/surya1-snapshot//</url>
     </snapshotRepository>
 </distributionManagement>
 
