@@ -41,12 +41,12 @@
 <distributionManagement>
     <repository>
         <id>deployment</id>
-        <name>deployment</name>
+        <name>deployment_release</name>
         <url>http://192.168.12.165:8081/repository/release/</url>
     </repository>
     <snapshotRepository>
         <id>deployment</id>
-        <name>deployment</name>
+        <name>deployment_snapshot</name>
         <url>http://192.168.12.165:8081/repository/snapshot/</url>
     </snapshotRepository>
 </distributionManagement>
