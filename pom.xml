@@ -42,12 +42,12 @@
     <repository>
         <id>deployment</id>
         <name>deployment_release</name>
-        <url>http://13.82.136.202:8081/repository/maven-releases/</url>
+        <url>http://13.82.136.202:8081/repository/surya-release/</url>
     </repository>
     <snapshotRepository>
         <id>deployment</id>
         <name>deployment_snapshot</name>
-        <url>http://13.82.136.202:8081/repository/maven-snapshots/</url>
+        <url>http://13.82.136.202:8081/repository/surya-snapshot/</url>
     </snapshotRepository>
 </distributionManagement>
 
